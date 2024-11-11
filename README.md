@@ -45,3 +45,8 @@ These two models are integrated into the Smart Crop Recommendation System with P
 | Random Forest        | 99.55      |
 | XGBoost              | 99.09      |
 | KNN                  | 97.5       |
+
+## 👨‍💻 CONTRIBUTERS
+- Mudit Gupta
+- Anisha Asnani
+- Kashish Khanna
